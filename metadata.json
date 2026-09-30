@@ -1,0 +1,6 @@
+{
+  "name": "Yuna AI - Korean Voice Language Tutor",
+  "description": "Warm, voice-first Korean language tutor featuring dynamic spoken drills, pronunciation feedback, offline practice mode, and local speech recognition models.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
